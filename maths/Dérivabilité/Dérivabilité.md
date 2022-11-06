@@ -34,7 +34,6 @@
 Propriétés
 1.  
 
-
 3.  ![image26](../../resources/image26-2.png)
     1.  ![image27](../../resources/image27-2.png)
     2.  ![image28](../../resources/image28-2.png)
