@@ -1,5 +1,5 @@
 1.  ## Dérivabilité d’une fonction en un point
-    1.  Nombre dérivé en un point
+    1.  Nombre dérivé en un poin
         1.  $f$ est   $\underset{x\rightarrow a}{lim}\frac{f\left(x\right)-f\left(a\right)}{x-a}=𝓁$
 
 
