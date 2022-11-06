@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "8a5647ba9fa62490",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4a425f7c4c2ac0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c5380d4b9839081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maths/Dérivabilité/Dérivabilité.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35484fbc469c7ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "80a552ee7b9c21ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45bd7e0a7c31d5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e79f65eea601cd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98bd1690f440289d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "984fc6513abbb48c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8679abe335111d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a217b9a86f00dcde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "maths/Dérivabilité/Dérivabilité.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfa077a1b8a3d229",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "maths/Dérivabilité/Dérivabilité.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68fb21085c28f7ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "99b469d21b8e1920",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "maths/Dérivabilité/Dérivabilité.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7c5380d4b9839081",
+  "lastOpenFiles": [
+    "maths/Dérivabilité/Dérivabilité.md",
+    "math/Continuité.md",
+    "math/Limites (Rappel).md",
+    "maths/Continuité/Continuité.md",
+    "2022-10-29.md",
+    "Untitleduutij/Untitled.md",
+    "Untitled.md",
+    "automating tiktok.md",
+    "automating store creation.md",
+    "Untitled 1.md"
+  ]
+}
