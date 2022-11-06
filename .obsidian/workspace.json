@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "maths/Dérivabilité/Dérivabilité.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,10 +141,10 @@
   },
   "active": "7c5380d4b9839081",
   "lastOpenFiles": [
+    "maths/Continuité/Continuité.md",
     "maths/Dérivabilité/Dérivabilité.md",
     "math/Continuité.md",
     "math/Limites (Rappel).md",
-    "maths/Continuité/Continuité.md",
     "2022-10-29.md",
     "Untitleduutij/Untitled.md",
     "Untitled.md",

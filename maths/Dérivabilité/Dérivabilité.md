@@ -32,16 +32,9 @@
         3.  ![image18](../../resources/image18-2.png)
     3.  Opérations sur les fonctions dérivées
 Propriétés
-1.  ![image19](../../resources/image19-2.png)
-![image20](../../resources/image20-2.png)
+1.  
 
-![image21](../../resources/image21-2.png)
 
-![image22](../../resources/image22-2.png)
-2.  ![image23](../../resources/image23-2.png)
-![image24](../../resources/image24-2.png)
-
-![image25](../../resources/image25-2.png)
 3.  ![image26](../../resources/image26-2.png)
     1.  ![image27](../../resources/image27-2.png)
     2.  ![image28](../../resources/image28-2.png)
