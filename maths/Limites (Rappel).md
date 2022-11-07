@@ -23,7 +23,6 @@ Opérations sur les limites
 
 
 
-
 4.  Limite d’une fonction irrationnelle
     1.  Propriétés
         1.  
