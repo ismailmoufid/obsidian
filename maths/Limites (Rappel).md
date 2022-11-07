@@ -3,32 +3,31 @@ title: Opérations sur les limites
 updated: 2022-10-30T21:32:55.0000000+01:00
 created: 2022-10-29T19:20:08.0000000+01:00
 ---
-
 Opérations sur les limites
 
 1.  Limites usuelles
-![image1](../../resources/image1.png)
-1.  ![image2](../../resources/image2.png)
-2.  ![image3](../../resources/image3.png)
-3.  ![image4](../../resources/image4.png)
-4.  ![image5](../../resources/image5.png)
+
+1.  
+2.  
+3.  
+4.  
 2.  Limite d’une fonction polynôme
     1.  Propriétés
-        1.  ![image6](../../resources/image6.png)
+        1.  
         2.  La limite d'un polynôme en ∞ est celle de son terme de plus haut degré
 3.  Limite d’une fonction rationnelle
     1.  Propriétés
         1.  La limite d’une fonction rationnelle en ∞ est celle du quotient des termes de plus haut degré
-        2.  ![image7](../../resources/image7.png)
-![image8](../../resources/image8.png)
+        2.  
 
-![image9](../../resources/image9.png)
 
-![image10](../../resources/image10.png)
+
+
+
 4.  Limite d’une fonction irrationnelle
     1.  Propriétés
-        1.  ![image11](../../resources/image11.png)
-        2.  ![image12](../../resources/image12.png)
+        1.  
+        2.  
 5.  Opérations sur les limites
 ![image13](../../resources/image13.png)
 1.  Limite de la somme de deux fonctions
