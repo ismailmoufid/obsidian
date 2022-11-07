@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths/Dérivabilité/Dérivabilité.md",
+                "file": "maths/Continuité.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maths/Dérivabilité/Dérivabilité.md",
+                "file": "maths/Continuité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maths/Dérivabilité/Dérivabilité.md",
+                "file": "maths/Continuité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maths/Dérivabilité/Dérivabilité.md"
+                "file": "maths/Continuité.md"
               }
             }
           }
@@ -139,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c5380d4b9839081",
+  "active": "b45bd7e0a7c31d5e",
   "lastOpenFiles": [
-    "maths/Continuité/Continuité.md",
-    "maths/Dérivabilité/Dérivabilité.md",
+    "maths/Dérivabilité.md",
+    "maths/Limites (Rappel).md",
+    "maths/Continuité.md",
     "math/Continuité.md",
     "math/Limites (Rappel).md",
     "2022-10-29.md",
     "Untitleduutij/Untitled.md",
     "Untitled.md",
     "automating tiktok.md",
-    "automating store creation.md",
-    "Untitled 1.md"
+    "automating store creation.md"
   ]
 }
