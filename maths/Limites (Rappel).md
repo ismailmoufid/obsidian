@@ -19,10 +19,7 @@ Opérations sur les limites
     1.  Propriétés
         1.  La limite d’une fonction rationnelle en ∞ est celle du quotient des termes de plus haut degré
         2.  
-
-
-
-
+f
 4.  Limite d’une fonction irrationnelle
     1.  Propriétés
         1.  
