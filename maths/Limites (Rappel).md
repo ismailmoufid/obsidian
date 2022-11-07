@@ -1,4 +1,4 @@
-
+obsidian://open?vault=Obsidian%20Vault&file=maths%2FLimites%20(Rappel)
 ## Opérations sur les limites
 1.  Limites usuelles
 
