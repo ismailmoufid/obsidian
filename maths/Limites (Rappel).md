@@ -1,10 +1,5 @@
----
-title: Opérations sur les limites
-updated: 2022-10-30T21:32:55.0000000+01:00
-created: 2022-10-29T19:20:08.0000000+01:00
----
-Opérations sur les limites
 
+## Opérations sur les limites
 1.  Limites usuelles
 
 1.  
@@ -43,9 +38,9 @@ f
 | ![image55](../../resources/image55.png)  | ![image56](../../resources/image56.png) | ![image48](../../resources/image48.png) | ![image48](../../resources/image48.png) | ![image57](../../resources/image57.png) | ![image58](../../resources/image58.png) |
 6.  Limites et ordre
     1.  Théorèmes
-        1.  ![image59](../../resources/image59.png)
-            1.  ![image60](../../resources/image60.png)
-            2.  ![image61](../../resources/image61.png)
-        2.  ![image62](../../resources/image62.png)
-            1.  ![image63](../../resources/image63.png)
-            2.  ![image64](../../resources/image64.png)
+        1.  
+            1.  
+            2.  
+        2.  
+            1.  
+            2.  
