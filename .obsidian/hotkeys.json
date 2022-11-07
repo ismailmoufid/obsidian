@@ -1,5 +1,6 @@
 {
-  "obsidian-git:push": [
+  "obsidian-git:push": [],
+  "obsidian-git:commit": [
     {
       "modifiers": [
         "Mod"
