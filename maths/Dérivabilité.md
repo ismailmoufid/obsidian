@@ -1,10 +1,8 @@
 1.  ## Dérivabilité d’une fonction en un point
     1. #### Nombre dérivé en un point
         1. ##### Définition
-	    Soit $f$ une fonction définie sur un intervalle ouvert $I$  , et soit  $a\in I$ $\underset{x\rightarrow a}{lim}\frac{f\left(x\right)-f\left(a\right)}{x-a}=𝓁$
-
-
-![image3](../../resources/image3-2.png)
+	    Soit $f$ une fonction définie sur un intervalle ouvert $I$  , et soit  $a\in I$ 
+	    On dit que <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>f</mi></math> est dérivable en <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>a</mi></math>, s’il existe un réel <math xmlns="http://www.w3.org/1998/Math/MathML"><mi mathvariant="script">l</mi></math> tel que : <math xmlns="http://www.w3.org/1998/Math/MathML"><munder><mi>lim</mi><mrow><mi>x</mi><mo>→</mo><mi>a</mi></mrow></munder><mfrac><mrow><mi>f</mi><mfenced><mi>x</mi></mfenced><mo>-</mo><mi>f</mi><mfenced><mi>a</mi></mfenced></mrow><mrow><mi>x</mi><mo>-</mo><mi>a</mi></mrow></mfrac><mo>=</mo><mi mathvariant="script">l</mi></math>
 2.  Interprétation géométrique du nombre dérivé
     1.  ![image4](../../resources/image4-2.png)
 2.  Dérivabilité à droite – dérivabilité à gauche
