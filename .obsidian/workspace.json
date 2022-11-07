@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths/Limites (Rappel).md",
-                "mode": "preview",
+                "file": "maths/Dérivabilité.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maths/Limites (Rappel).md",
+                "file": "maths/Dérivabilité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maths/Limites (Rappel).md",
+                "file": "maths/Dérivabilité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maths/Limites (Rappel).md"
+                "file": "maths/Dérivabilité.md"
               }
             }
           }
@@ -141,9 +141,9 @@
   },
   "active": "7c5380d4b9839081",
   "lastOpenFiles": [
-    "maths/Dérivabilité.md",
     "maths/Continuité.md",
     "maths/Limites (Rappel).md",
+    "maths/Dérivabilité.md",
     "math/Continuité.md",
     "math/Limites (Rappel).md",
     "2022-10-29.md",
