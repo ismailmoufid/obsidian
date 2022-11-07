@@ -1,8 +1,7 @@
 1.  ## Dérivabilité d’une fonction en un point
     1. #### Nombre dérivé en un point
         1. ##### Définition
-	    Soit $f$ une fonction définie sur un intervalle ouvert $I$  , et soit $a$ 
-  $\underset{x\rightarrow a}{lim}\frac{f\left(x\right)-f\left(a\right)}{x-a}=𝓁$
+	    Soit $f$ une fonction définie sur un intervalle ouvert $I$  , et soit  $a\in I$ $\underset{x\rightarrow a}{lim}\frac{f\left(x\right)-f\left(a\right)}{x-a}=𝓁$
 
 
 ![image3](../../resources/image3-2.png)
