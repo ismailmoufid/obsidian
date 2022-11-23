@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59386d115ba8764d",
+            "id": "af2a3cf67bccdd09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comptabilité/Le taux d’amortissement.md",
+                "file": "comptabilité/Cumul d'amortissement N.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 215.5
   },
   "right": {
     "id": "984fc6513abbb48c",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comptabilité/Le taux d’amortissement.md",
+                "file": "comptabilité/Cumul d'amortissement N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comptabilité/Le taux d’amortissement.md",
+                "file": "comptabilité/Cumul d'amortissement N.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comptabilité/Le taux d’amortissement.md"
+                "file": "comptabilité/Cumul d'amortissement N.md"
               }
             }
           }
@@ -139,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "59386d115ba8764d",
+  "active": "af2a3cf67bccdd09",
   "lastOpenFiles": [
+    "comptabilité/Le cumul d’amortissement.md",
+    "comptabilité/Cumul d'amortissement N.md",
+    "comptabilité/Le taux d’amortissement.md",
     "comptabilité/taux linéaire (constant).md",
     "comptabilité/taux dégressif.md",
     "comptabilité/coefficient.md",
-    "comptabilité/Le cumul d’amortissement.md",
-    "comptabilité/Le taux d’amortissement.md",
     "comptabilité/Le taux constant (linéaire).md",
     "maths/Continuité.md",
     "maths/Dérivabilité.md",
-    "maths/Limites (Rappel).md",
-    "Soit $f$ une fonction défi.md"
+    "maths/Limites (Rappel).md"
   ]
 }
