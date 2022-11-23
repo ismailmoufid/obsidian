@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comptabilité/taux linéaire (constant).md",
+                "file": "comptabilité/VNA.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comptabilité/taux linéaire (constant).md",
+                "file": "comptabilité/VNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comptabilité/taux linéaire (constant).md",
+                "file": "comptabilité/VNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comptabilité/taux linéaire (constant).md"
+                "file": "comptabilité/VNA.md"
               }
             }
           }
@@ -142,12 +142,12 @@
   "active": "24f6ecd16118e93a",
   "lastOpenFiles": [
     "comptabilité/taux dégressif.md",
-    "comptabilité/taux linéaire (constant).md",
-    "comptabilité/coefficient.md",
-    "comptabilité/CA.md",
-    "comptabilité/VE.md",
     "comptabilité/VNA.md",
+    "comptabilité/taux linéaire (constant).md",
     "comptabilité/taux d’amortissement.md",
+    "comptabilité/CA.md",
+    "comptabilité/coefficient.md",
+    "comptabilité/VE.md",
     "comptabilité/annuité.md",
     "comptabilité/CA N.md",
     "taux d'amortissement.md"
