@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comptabilité/annuité.md",
+                "file": "comptabilité/CA.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comptabilité/annuité.md",
+                "file": "comptabilité/CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comptabilité/annuité.md",
+                "file": "comptabilité/CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comptabilité/annuité.md"
+                "file": "comptabilité/CA.md"
               }
             }
           }
@@ -141,14 +141,14 @@
   },
   "active": "90185dea305e647f",
   "lastOpenFiles": [
-    "comptabilité/CA.md",
-    "comptabilité/annuité.md",
     "comptabilité/VE.md",
+    "comptabilité/coefficient.md",
+    "comptabilité/annuité.md",
+    "comptabilité/CA.md",
     "comptabilité/CA N.md",
     "comptabilité/taux linéaire (constant).md",
     "comptabilité/taux d’amortissement.md",
     "comptabilité/VNA.md",
-    "comptabilité/coefficient.md",
     "comptabilité/taux dégressif.md",
     "2022-11-23.md"
   ]
