@@ -2,6 +2,6 @@
 
 
 # ==Cumul d’amortissement = ∑ des [[annuité]]s==
-# ==Cumul d’amortissement= [[VE]] x taux d'amort x ∑m/12==
+# ==Cumul d’amortissement= [[VE]] x [[taux d’amortissement]] x ∑m/12==
 > [!attention] 
 > cette formule est valable seulement pour l’amortissement constant, en cas d’amortissement dégressif en utilise le taux dégressif.
