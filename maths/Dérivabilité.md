@@ -1,7 +1,7 @@
 1.  ## Dérivabilité d’une fonction en un point
     1. #### Nombre dérivé en un point
         1. ##### Définition
-	    Soit $f$ une fonction définie sur un intervalle ouvert $I$  , et soit  $a\in I$ 
+	    [[Soit $f$ une fonction défi]]nie sur un intervalle ouvert $I$  , et soit  $a\in I$ 
 2.  Interprétation géométrique du nombre dérivé
     1.  ![image4](../../resources/image4-2.png)
 2.  Dérivabilité à droite – dérivabilité à gauche
