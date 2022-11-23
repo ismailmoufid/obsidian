@@ -1,0 +1,1 @@
+Le taux constant (linéaire) est calculé en fonction de la durée de vie : Taux=100/N (N=durée de vie)
