@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "comptabilité/annuité.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -142,8 +142,8 @@
   "active": "90185dea305e647f",
   "lastOpenFiles": [
     "comptabilité/CA.md",
-    "comptabilité/VE.md",
     "comptabilité/annuité.md",
+    "comptabilité/VE.md",
     "comptabilité/CA N.md",
     "comptabilité/taux linéaire (constant).md",
     "comptabilité/taux d’amortissement.md",
