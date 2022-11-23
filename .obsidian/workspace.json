@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d9be53e488ba3e2",
+        "id": "f6fae425160b84cb",
         "type": "tabs",
         "children": [
           {
-            "id": "90185dea305e647f",
+            "id": "24f6ecd16118e93a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,12 +139,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90185dea305e647f",
+  "active": "24f6ecd16118e93a",
   "lastOpenFiles": [
+    "comptabilité/CA.md",
     "comptabilité/VE.md",
     "comptabilité/coefficient.md",
     "comptabilité/annuité.md",
-    "comptabilité/CA.md",
     "comptabilité/CA N.md",
     "comptabilité/taux linéaire (constant).md",
     "comptabilité/taux d’amortissement.md",
