@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4a425f7c4c2ac0e",
+        "id": "1d9be53e488ba3e2",
         "type": "tabs",
         "children": [
           {
-            "id": "af2a3cf67bccdd09",
+            "id": "a67de1c508b515cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comptabilité/Le cumul d’amortissement.md",
+                "file": "comptabilité/Cumul d'amortissement N.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comptabilité/Le cumul d’amortissement.md",
+                "file": "comptabilité/Cumul d'amortissement N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comptabilité/Le cumul d’amortissement.md",
+                "file": "comptabilité/Cumul d'amortissement N.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comptabilité/Le cumul d’amortissement.md"
+                "file": "comptabilité/Cumul d'amortissement N.md"
               }
             }
           }
@@ -139,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af2a3cf67bccdd09",
+  "active": "a67de1c508b515cb",
   "lastOpenFiles": [
-    "comptabilité/coefficient.md",
+    "L’annuité d’amortissement (dotation).md",
+    "comptabilité/_Index_of_comptabilité.md",
+    "_Index_of_Obsidian Vault.md",
+    "comptabilité/annuité.md",
     "comptabilité/Cumul d'amortissement N.md",
     "comptabilité/Le cumul d’amortissement.md",
+    "comptabilité/coefficient.md",
     "comptabilité/Le taux d’amortissement.md",
     "comptabilité/taux linéaire (constant).md",
-    "comptabilité/taux dégressif.md",
-    "comptabilité/Le taux constant (linéaire).md",
-    "maths/Continuité.md",
-    "maths/Dérivabilité.md",
-    "maths/Limites (Rappel).md"
+    "comptabilité/taux dégressif.md"
   ]
 }
