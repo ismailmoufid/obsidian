@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82b3a47e21929543",
+            "id": "59386d115ba8764d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coefficient.md",
-                "mode": "source",
+                "file": "comptabilité/Le taux d’amortissement.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 210.5
   },
   "right": {
     "id": "984fc6513abbb48c",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coefficient.md",
+                "file": "comptabilité/Le taux d’amortissement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coefficient.md",
+                "file": "comptabilité/Le taux d’amortissement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coefficient.md"
+                "file": "comptabilité/Le taux d’amortissement.md"
               }
             }
           }
@@ -139,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "82b3a47e21929543",
+  "active": "59386d115ba8764d",
   "lastOpenFiles": [
-    "comptabilité/taux dégressif.md",
-    "coefficient.md",
     "comptabilité/taux linéaire (constant).md",
+    "comptabilité/taux dégressif.md",
+    "comptabilité/coefficient.md",
+    "comptabilité/Le cumul d’amortissement.md",
     "comptabilité/Le taux d’amortissement.md",
     "comptabilité/Le taux constant (linéaire).md",
     "maths/Continuité.md",
     "maths/Dérivabilité.md",
     "maths/Limites (Rappel).md",
-    "Soit $f$ une fonction défi.md",
-    "math/Continuité.md"
+    "Soit $f$ une fonction défi.md"
   ]
 }
