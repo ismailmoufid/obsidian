@@ -1,1 +1,1 @@
-# ==Taux=100/N (N=durée de vie)==
+# ==Taux = 100/N (N=durée de vie)==

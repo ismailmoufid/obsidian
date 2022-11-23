@@ -1,1 +1,1 @@
-#  ==Taux dégressif=Taux constant×[[coefficient]]== 
+#  ==Taux =Taux constant×[[coefficient]]== 

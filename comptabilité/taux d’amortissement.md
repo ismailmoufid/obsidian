@@ -1,1 +1,1 @@
-Généralement, on distingue deux modes ou procédés d’amortissement : [[taux linéaire (constant)]] et  [[taux dégressif]]
+# Généralement, on distingue deux modes ou procédés d’amortissement : [[taux linéaire (constant)]] et  [[taux dégressif]]
