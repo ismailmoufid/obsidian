@@ -142,6 +142,7 @@
   "active": "82b3a47e21929543",
   "lastOpenFiles": [
     "comptabilité/taux dégressif.md",
+    "coefficient.md",
     "comptabilité/taux linéaire (constant).md",
     "comptabilité/Le taux d’amortissement.md",
     "comptabilité/Le taux constant (linéaire).md",
@@ -149,7 +150,6 @@
     "maths/Dérivabilité.md",
     "maths/Limites (Rappel).md",
     "Soit $f$ une fonction défi.md",
-    "math/Continuité.md",
-    "math/Limites (Rappel).md"
+    "math/Continuité.md"
   ]
 }
