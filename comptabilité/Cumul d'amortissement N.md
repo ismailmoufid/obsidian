@@ -1,3 +1,3 @@
 # ==Cumul d'amortissement N = Cumul d'amortissement N-1 + [[annuité]] N==
 > [!attention] 
-> > Lorem ipsum dolor sit amet
+> > cette formule est valable seulement pour l’amortissement constant, en cas d’amortissement dégressif en utilise le taux dégressif.
