@@ -11,8 +11,13 @@
             "id": "90185dea305e647f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "comptabilité/CA.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "comptabilité/CA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "comptabilité/CA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "comptabilité/CA.md"
+              }
             }
           }
         ],
@@ -132,15 +141,15 @@
   },
   "active": "90185dea305e647f",
   "lastOpenFiles": [
+    "comptabilité/CA N.md",
+    "comptabilité/VE.md",
+    "comptabilité/taux linéaire (constant).md",
     "comptabilité/taux d’amortissement.md",
     "comptabilité/CA.md",
     "comptabilité/VNA.md",
-    "comptabilité/Cumul d'amortissement N.md",
-    "comptabilité/taux linéaire (constant).md",
     "comptabilité/coefficient.md",
     "comptabilité/annuité.md",
     "comptabilité/taux dégressif.md",
-    "2022-11-23.md",
-    "L’annuité d’amortissement (dotation).md"
+    "2022-11-23.md"
   ]
 }
