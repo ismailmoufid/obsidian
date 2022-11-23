@@ -1,0 +1,1 @@
+#  ==Taux dégressif=Taux constant×coefficient== 
