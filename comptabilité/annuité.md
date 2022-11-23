@@ -1,0 +1,1 @@
+Elle représente la dépréciation annuelle de l’immobilisation.
