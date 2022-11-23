@@ -8,16 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a67de1c508b515cb",
+            "id": "90185dea305e647f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "comptabilité/taux d’amortissement.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -71,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 286.5
   },
   "right": {
     "id": "984fc6513abbb48c",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comptabilité/taux d’amortissement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comptabilité/taux d’amortissement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "comptabilité/taux d’amortissement.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -139,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a67de1c508b515cb",
+  "active": "90185dea305e647f",
   "lastOpenFiles": [
-    "comptabilité/taux linéaire (constant).md",
     "comptabilité/taux d’amortissement.md",
-    "comptabilité/Cumul d’amortissement.md",
+    "comptabilité/CA.md",
+    "comptabilité/VNA.md",
     "comptabilité/Cumul d'amortissement N.md",
+    "comptabilité/taux linéaire (constant).md",
     "comptabilité/coefficient.md",
     "comptabilité/annuité.md",
     "comptabilité/taux dégressif.md",
     "2022-11-23.md",
-    "L’annuité d’amortissement (dotation).md",
-    "comptabilité/_Index_of_comptabilité.md"
+    "L’annuité d’amortissement (dotation).md"
   ]
 }
