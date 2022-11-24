@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comptabilité/VNA.md",
-                "mode": "preview",
+                "file": "comptabilité/annuité.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comptabilité/VNA.md",
+                "file": "comptabilité/annuité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comptabilité/VNA.md",
+                "file": "comptabilité/annuité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "comptabilité/VNA.md"
+                "file": "comptabilité/annuité.md"
               }
             }
           }
@@ -141,15 +141,15 @@
   },
   "active": "24f6ecd16118e93a",
   "lastOpenFiles": [
-    "comptabilité/taux dégressif.md",
     "comptabilité/VNA.md",
-    "comptabilité/taux linéaire (constant).md",
-    "comptabilité/taux d’amortissement.md",
+    "comptabilité/CA N.md",
     "comptabilité/CA.md",
-    "comptabilité/coefficient.md",
+    "comptabilité/taux d’amortissement.md",
+    "comptabilité/taux dégressif.md",
+    "comptabilité/taux linéaire (constant).md",
     "comptabilité/VE.md",
     "comptabilité/annuité.md",
-    "comptabilité/CA N.md",
+    "comptabilité/coefficient.md",
     "taux d'amortissement.md"
   ]
 }
