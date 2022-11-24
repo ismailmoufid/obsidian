@@ -7,5 +7,13 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-tabs:toggle-tabs": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Key226"
+    }
   ]
 }

@@ -4,24 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f6fae425160b84cb",
+        "id": "95e0f1699800e352",
         "type": "tabs",
         "children": [
           {
-            "id": "24f6ecd16118e93a",
+            "id": "12dfac5e838834f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "comptabilité/annuité.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "984fc6513abbb48c",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comptabilité/annuité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comptabilité/annuité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "comptabilité/annuité.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -139,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24f6ecd16118e93a",
+  "active": "12dfac5e838834f8",
   "lastOpenFiles": [
-    "comptabilité/VNA.md",
-    "comptabilité/taux d’amortissement.md",
     "comptabilité/annuité.md",
+    "comptabilité/VNA.md",
     "comptabilité/taux linéaire (constant).md",
+    "comptabilité/taux dégressif.md",
     "comptabilité/VE.md",
     "comptabilité/CA N.md",
-    "comptabilité/CA.md",
-    "comptabilité/taux dégressif.md",
     "comptabilité/coefficient.md",
+    "comptabilité/taux d’amortissement.md",
+    "comptabilité/CA.md",
     "taux d'amortissement.md"
   ]
 }
