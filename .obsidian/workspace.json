@@ -129,17 +129,9 @@
                 "file": "comptabilité/CA.md"
               }
             }
-          },
-          {
-            "id": "833725717725cffe",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,8 +140,8 @@
   },
   "active": "12dfac5e838834f8",
   "lastOpenFiles": [
-    "comptabilité/CA.md",
     "comptabilité/annuité.md",
+    "comptabilité/CA.md",
     "comptabilité/CA N.md",
     "comptabilité/taux d’amortissement.md",
     "comptabilité/taux d'amortissement.md",
