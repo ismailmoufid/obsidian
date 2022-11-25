@@ -2,7 +2,7 @@
 cards-deck: comptabilité
 ---
 
-# Cumul d’amortissement (CA) est la somme des annuités pratiquées depuis l’acquisition de l’immobilisation :
+# Cumul d’amortissement (CA) est la somme des annuités pratiquées depuis l’acquisition de l’immobilisation : #card
 
 
 # ==Cumul d’amortissement = ∑ des [[annuité]]s==
