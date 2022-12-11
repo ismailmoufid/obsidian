@@ -11,13 +11,8 @@
             "id": "12dfac5e838834f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "comptabilité/VNA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "comptabilité/VNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "comptabilité/VNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "comptabilité/VNA.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -140,15 +131,15 @@
   },
   "active": "12dfac5e838834f8",
   "lastOpenFiles": [
+    "Diary/desperation (1).md",
+    "comptabilité/VNA.md",
     "comptabilité/VE.md",
     "Untitled.md",
     "comptabilité/coefficient.md",
     "comptabilité/taux linéaire (constant).md",
-    "comptabilité/VNA.md",
     "comptabilité/CA.md",
     "comptabilité/annuité.md",
     "comptabilité/CA N.md",
-    "comptabilité/taux d’amortissement.md",
-    "comptabilité/taux d'amortissement.md"
+    "comptabilité/taux d’amortissement.md"
   ]
 }
