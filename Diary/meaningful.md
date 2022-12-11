@@ -1,0 +1,1 @@
+An [[idea]] or a [[choice]] serves a [[purpose]].
